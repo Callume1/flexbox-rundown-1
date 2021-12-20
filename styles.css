@@ -89,6 +89,15 @@ iframe {
     align-items: center;
     justify-content: center;
     
+    
+}
+
+figcaption{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
 }
 
 /* section 5 media items */
